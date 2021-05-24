@@ -1,7 +1,8 @@
 #### 1. Introductory information
 Fitbit dataset: Data_IER
-The MATLAB file was creating on the basis of Fitbit dataset.
+The MATLAB file was created on the basis of Fitbit dataset.
 It distinguishes study sample in accordance to their gender and year of study performed.
+
 
 #### 2. Methodological information
 Participants were asked to fill the form in which they answered questions regarding their demographics(gender,living situation,bmi).
@@ -9,19 +10,17 @@ They were asked questions regarding their attitude and specific physical activit
 Then, from the reported data, each of the participants received their IPAQ score.
 
 #### 3. Data specific information
-The dataset includes:
-
-- Demographics
-- Year of data collection (2019 vs 2020)
-- Expected number of steps and self-rated physical activity
-- Estimate of energy use due to physical activity
-- Attitude towards physical activity
-- Number of steps per day (app vs activity tracker)
-- Distance travelled (activity tracker)
-- Calories burned (activity tracker)
-
 A complete description of all variables can be found in the following file:
 https://drive.google.com/file/d/16BaDtD3aBvu9bijzOY2Mq_pLzX8K2NiS/view?usp=sharing
+A PDF version of this description is also available on Brightspace. 
+
+
+Students were asked to fulfil the form giving three different types of answers:
+- descriptive (gender, bmi, living situation)
+- quantitative, for instance number of steps taken daily,
+- in the specific range, e.g. self-attitude from 0 to 7,
+- about time, in hours and minutes,
+
 
 A PDF version of this description is also available on Brightspace. 
 
